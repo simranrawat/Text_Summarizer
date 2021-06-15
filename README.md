@@ -16,7 +16,7 @@ The projects has following major parts:
 
 # Running the Project
 1. Open Anaconda command prompt and move to your project home directory.
-2. Run app.py using below command to start Flask API
+2. Run app.py using below command to start Flask API:
 python app.py
 3. Navigate to the localhost to view the application home page. Localhost:  http://127.0.0.1:5000/ or http://localhost:5000
 4. Enter the text to summarize in the textbox and hit Summarize button.
